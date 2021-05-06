@@ -18,7 +18,6 @@ A aplicação possui dois módulos: `users` e `games`. Um **usuário** pode ter 
 
 Para que os testes funcionem, é importante que crie uma **database no banco Postgres** com o nome `queries_challenge` e substitua os dados de autenticação (caso os seus não sejam os mesmos) no arquivo **ormconfig.json**:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a1da61e-f25b-4214-9e63-4da7ffe345df/Captura_de_tela_2021-03-21_134437.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a1da61e-f25b-4214-9e63-4da7ffe345df/Captura_de_tela_2021-03-21_134437.png)
 
 **Atenção**: Se você precisou mudar alguma informação no arquivo de configuração **ormconfig.json** para que fosse possível rodar os testes, é necessário que, antes de mandar na plataforma da Rocketseat, você volte esses dados ao padrão que veio do template. Caso contrário, os testes não irão rodar corretamente na plataforma.
 
